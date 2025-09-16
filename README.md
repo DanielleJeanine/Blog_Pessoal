@@ -77,9 +77,6 @@ git --version
 ```bash
 # Clone o projeto para sua máquina
 git clone <url-do-repositorio>
-
-# Entre na pasta do projeto
-cd blog-pessoal
 ```
 
 #### 2. Instale as Dependências
